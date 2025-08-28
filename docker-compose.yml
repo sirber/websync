@@ -1,0 +1,7 @@
+services:
+  broker:
+    image: golang:trixie
+  
+  client:
+    image: golang:trixie
+
